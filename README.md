@@ -18,14 +18,13 @@ The notebook has **229 numbered operations**, each with a short plain-English ex
 
 ```
 googleplaystore-eda/
-├── Google_Play_Store_EDA.ipynb     # main notebook (already executed, outputs included)
+├── Google_Play_Store_EDA.ipynb   # main notebook (already executed, outputs included)
 ├── data/
-│   ├── googleplaystore.csv                 # raw apps data
-│   ├── googleplaystore_user_reviews.csv    # raw user reviews
-│   ├── googleplaystore_cleaned.csv         # created by the notebook
-│   └── license.txt                         # CC BY 3.0
-├── images/                         # every chart saved as PNG (+ one PDF/SVG example)
-├── icons/                          # library icons and section banners used in the notebook / README
+│   ├── googleplaystore.csv               # raw apps data
+│   ├── googleplaystore_user_reviews.csv  # raw user reviews
+│   └── googleplaystore_cleaned.csv       # created by the notebook
+├── images/                       # every chart saved as PNG (+ one PDF/SVG example)
+├── icons/                        # library icons and section banners used in the notebook
 ├── requirements.txt
 └── README.md
 ```
